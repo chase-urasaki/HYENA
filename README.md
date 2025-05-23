@@ -1,2 +1,2 @@
 # HYENA
-HYENA - Helium Yield Extraction and Narrowband Absorption
+HYENA - Helium Yield Extraction and NIR Analysis
