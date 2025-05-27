@@ -1,5 +1,5 @@
-# HYENA
-HYENA - Helium Yield and Excess NIR Absorption in Spectra
+# HYENAS
+HYENAS - Helium Yield and Excess NIR Absorption in Spectra
 
 <p align="center">
   <img src="HYENA_logo.png" alt="HYENAS logo" width="300"/>
